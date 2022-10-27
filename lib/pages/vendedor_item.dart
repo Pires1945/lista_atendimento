@@ -3,6 +3,7 @@ import 'package:lista_atendimento/models/vendedor.dart';
 
 import 'package:provider/provider.dart';
 
+//teste github
 class VendedorItem extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
